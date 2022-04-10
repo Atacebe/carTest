@@ -8,6 +8,7 @@ public class car {
     public String color;
     public int miles;
 
+
     public car(String brand, String model, int year, double price, String color, int miles) {
         this.brand = brand;
         this.model = model;
