@@ -17,7 +17,7 @@ public class car {
         this.color = color;
         this.miles = miles;
     }
-    public void start(){
+    public  void start(){
         System.out.println(brand+" "+model+" is starting");
     }
     public void drive(){

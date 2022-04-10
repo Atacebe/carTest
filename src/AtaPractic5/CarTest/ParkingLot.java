@@ -7,9 +7,5 @@ public class ParkingLot {
         Tesla tesla=new Tesla("Model S",2022,94990,"red",0);
         BMW bmw=new BMW("X5",2020,25000,"black",200);
 
-
-        toyota.start();
-        tesla.start();
-        bmw.start();
     }
 }
